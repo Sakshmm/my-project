@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Updated featture: Oauth integration
 Updated feature: Oauth integration
+=======
+new feature of the project is useful for the techincal purpose
+>>>>>>> feature-update
